@@ -73,6 +73,11 @@ p {
   font-family: 'Open Sans', sans-serif;
   color: #f5f5f5;
   background: none;
+  font-size:10px;
+}
+.opensans h3{
+  font-size:16px;
+  font-weight: bold;
 }
 .site {
   background: #222;
@@ -81,9 +86,15 @@ p {
   margin-top: 25px;
   padding: 0;
   background: none;
+  border: none;
 }
 .roboto{
   font-family: 'Roboto', sans-serif;
   color: #f5f5f5;
   background: none;
+  font-size:10px;
+}
+.roboto h3{
+  font-size:16px;
+  font-weight: bold;
 }
