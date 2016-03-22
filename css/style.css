@@ -74,10 +74,12 @@ p {
 }
 .site {
   background: #222;
+  background: none;
 }
 .painel {
   margin-top: 25px;
   padding: 0;
+  background: none;
 }
 .roboto{
   font-family: 'Roboto', sans-serif;
